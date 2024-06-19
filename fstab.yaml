@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p136111-e1367719.adobeaemcloud.com/bin/franklin.delivery/Bejor/sparky-template-teo2/main"
+    url: "https://author-p136111-e1367719.adobeaemcloud.com/bin/franklin.delivery/Teo2024/sparky-template-teo2/main"
     type: "markup"
     suffix: ".html"
