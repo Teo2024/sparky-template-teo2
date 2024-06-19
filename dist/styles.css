@@ -651,6 +651,9 @@ video {
 .text-s {
   font-size: 16px;
 }
+.text-xl {
+  font-size: 24.3px;
+}
 .text-black {
   --tw-text-opacity: 1;
   color: rgb(0 0 0 / var(--tw-text-opacity));
@@ -838,7 +841,7 @@ video {
 }
 
 p {
-  margin-top: 2.5rem;
+  margin-top: 0px;
 }
 
 html,
@@ -941,6 +944,9 @@ h3 {
 
 h4 {
   font-size: 24.3px;
+  font-weight: 500;
+  --tw-text-opacity: 1;
+  color: rgb(226 0 26 / var(--tw-text-opacity));
 }
 
 h5 {

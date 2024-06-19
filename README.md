@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--sparky-template--bejor.hlx.page/
-- Live: https://main--sparky-template--bejor.hlx.live/
+- Preview: https://main--sparky-template-teo2--teo2024.hlx.page/
+- Live: https://main--sparky-template-teo2--teo2024.hlx.live/
 
 ## Installation
 
