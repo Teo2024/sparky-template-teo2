@@ -1,7 +1,8 @@
 {
   "mappings": [
-    "/content/sparky-template-teo2/ooegb-ak:/",
+    "/content/sparky-template-teo2/ooegb-ak.json:/",
     "/content/sparky-template-teo2/:/",
     "/content/sparky-template-teo2/configuration:/.helix/config.json"
-  ]
+  ],
+  "includes": ["/content/sparky-template-teo2/"]
 }
